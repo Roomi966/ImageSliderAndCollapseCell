@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ImageSliderAndCollapseCell_ImageSliderAndCollapseCellUITests : NSObject
+@end
+@implementation PodsDummy_Pods_ImageSliderAndCollapseCell_ImageSliderAndCollapseCellUITests
+@end
